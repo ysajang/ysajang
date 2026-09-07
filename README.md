@@ -53,12 +53,12 @@ Currently building side projects and exploring scalable digital business models.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysajang&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysajang&theme=github_dark&utcOffset=9" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysajang&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysajang&theme=github_dark&utcOffset=9" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysajang&theme=github_dark" width="97%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysajang&theme=github_dark" width="97%"/>
 </p>
 
 <br>
